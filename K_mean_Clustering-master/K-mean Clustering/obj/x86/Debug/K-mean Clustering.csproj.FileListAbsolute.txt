@@ -1,0 +1,9 @@
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\bin\Debug\K-mean Clustering.exe
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\bin\Debug\K-mean Clustering.pdb
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\obj\x86\Debug\K-mean Clustering.csproj.AssemblyReference.cache
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\obj\x86\Debug\K_mean_Clustering.Form1.resources
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\obj\x86\Debug\K_mean_Clustering.Properties.Resources.resources
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\obj\x86\Debug\K-mean Clustering.csproj.GenerateResource.cache
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\obj\x86\Debug\K-mean Clustering.csproj.CoreCompileInputs.cache
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\obj\x86\Debug\K-mean Clustering.exe
+C:\Users\Clamp\Desktop\K_mean_Clustering-master\K-mean Clustering\obj\x86\Debug\K-mean Clustering.pdb
